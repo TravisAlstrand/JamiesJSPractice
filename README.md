@@ -18,19 +18,19 @@ The HTML and CSS files are already set up for you. The JavaScript file contains 
 
 <!-- 2. Create a function that will add a project to the `select` menu for the second form. -->
 
-3. Create a function that will validate the forms.
+<!-- 3. Create a function that will validate the forms. -->
 
-4. Create a function that will reset the forms.
+<!-- 4. Create a function that will reset the forms. -->
 
-5. Using the pre-defined `alertMessage` variable, create a function that will show the alert banner with the appropriate `background-color` and message that will depend on the outcome of the forms. For example, if the user leaves the "Project Name" field blank, show an alert with the warning background and a message.
+<!-- 5. Using the pre-defined `alertMessage` variable, create a function that will show the alert banner with the appropriate `background-color` and message that will depend on the outcome of the forms. For example, if the user leaves the "Project Name" field blank, show an alert with the warning background and a message. -->
 
-6. Using the `closeIcon` event listener, create a way for users to close the alert notification banner.
+<!-- 6. Using the `closeIcon` event listener, create a way for users to close the alert notification banner. -->
 
 <!-- 7. Using the pre-defined `projectList` event listener, create a wat for users to toggle the display of the project description for the top project widget. -->
 
 #### Bronze Challenge
 
-The alert notification banner isn't visible to the user when using the second form with the page scrolled. Find a way to make the alert notification banner visible to the user so they can see the status of the app. For example, you could find a way to send the user back to the top of the page to see the element.
+<!-- The alert notification banner isn't visible to the user when using the second form with the page scrolled. Find a way to make the alert notification banner visible to the user so they can see the status of the app. For example, you could find a way to send the user back to the top of the page to see the element. -->
 
 #### Silver Challenge
 

@@ -283,16 +283,27 @@ label {
   -webkit-transition: background-color .4s ease, color .4s ease;
   transition: background-color .4s ease, color .4s ease;
   margin-top: 25px;
+  color: white;
 }
 .btn-default {
   border-color: var(--color-btn-default);
   background-color: var(--color-btn-default);
-  color: white;
 }
 .btn-default:hover {
   border-color: var(--color-btn-hover);
   background-color: var(--color-btn-hover);
 }
+
+.btn-reset {
+  border-color: var(--color-warning);
+  background-color: #434343;
+}
+
+.btn-reset:hover {
+  border-color: #434343;
+  background-color: var(--color-warning);
+}
+
 /* *****************************************************
   Media Queries
 ***************************************************** */
